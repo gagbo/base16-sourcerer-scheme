@@ -6,8 +6,8 @@ base02: "d3d3d3" # Selection background
 base03: "444444" # Comments, invisibles, line highlighting
 base04: "c1cdc1" # Dark Foreground (used for status bars)
 base05: "c2c2b0" # Default foreground, caret, delimiters, operators
-base06: "181818" # Light foreground (not often used)
-base07: "d3d3d3" # Light background (not often used)
+base06: "c2c2b0" # Light foreground (not often used)
+base07: "ffffff" # Light background (not often used)
 base08: "8f6f8f" # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
 base09: "87875f" # Ints, Bools, Const, XML attributes, Markup Link url
 base0A: "d3d3d3" # Classes, Markup Bold, Search Text Background
